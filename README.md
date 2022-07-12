@@ -1,0 +1,2 @@
+# StudentTableModel
+tableview Qt MVC
